@@ -1,0 +1,397 @@
+1296184417.509580 IP (tos 0x0, ttl 1, id 30632, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.35952 > 212.58.244.68.80: Flags [SEW], cksum 0xc2c4 (correct), seq 1857692485, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509599 IP (tos 0x0, ttl 1, id 30633, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.38611 > 212.58.244.68.80: Flags [SEW], cksum 0x97a4 (correct), seq 3741111231, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509610 IP (tos 0x0, ttl 1, id 30634, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.43467 > 212.58.244.68.80: Flags [SEW], cksum 0x01d0 (correct), seq 594547241, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509621 IP (tos 0x0, ttl 2, id 30635, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.33275 > 212.58.244.68.80: Flags [SEW], cksum 0x9fc1 (correct), seq 2799704215, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509631 IP (tos 0x0, ttl 2, id 30636, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.59817 > 212.58.244.68.80: Flags [SEW], cksum 0x14a1 (correct), seq 2759736939, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509641 IP (tos 0x0, ttl 2, id 30637, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.54166 > 212.58.244.68.80: Flags [SEW], cksum 0x901d (correct), seq 4041772183, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509652 IP (tos 0x0, ttl 3, id 30638, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.50535 > 212.58.244.68.80: Flags [SEW], cksum 0xe97f (correct), seq 1683934702, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509661 IP (tos 0x0, ttl 3, id 30639, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37678 > 212.58.244.68.80: Flags [SEW], cksum 0x0f06 (correct), seq 1598742453, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509671 IP (tos 0x0, ttl 3, id 30640, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.33939 > 212.58.244.68.80: Flags [SEW], cksum 0x9123 (correct), seq 320649313, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509681 IP (tos 0x0, ttl 4, id 30641, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.41110 > 212.58.244.68.80: Flags [SEW], cksum 0xde0c (correct), seq 4108348848, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509690 IP (tos 0x0, ttl 4, id 30642, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.59323 > 212.58.244.68.80: Flags [SEW], cksum 0x9be0 (correct), seq 169563005, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509700 IP (tos 0x0, ttl 4, id 30643, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.50340 > 212.58.244.68.80: Flags [SEW], cksum 0x9fb6 (correct), seq 3507989441, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509710 IP (tos 0x0, ttl 5, id 30644, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37023 > 212.58.244.68.80: Flags [SEW], cksum 0x42ee (correct), seq 2362736850, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509719 IP (tos 0x0, ttl 5, id 30645, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.59068 > 212.58.244.68.80: Flags [SEW], cksum 0x0d96 (correct), seq 4257410846, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509729 IP (tos 0x0, ttl 5, id 30646, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.35886 > 212.58.244.68.80: Flags [SEW], cksum 0x1dcf (correct), seq 3617218460, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.509738 IP (tos 0x0, ttl 6, id 30647, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.35103 > 212.58.244.68.80: Flags [SEW], cksum 0x0849 (correct), seq 1887035218, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510048 IP (tos 0x0, ttl 62, id 42905, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.254.49 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30638, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.50535 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510070 IP (tos 0x0, ttl 62, id 42906, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.254.49 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30639, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37678 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510081 IP (tos 0xc0, ttl 255, id 55296, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.76.129 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30632, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.35952 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510110 IP (tos 0x0, ttl 62, id 42907, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.254.49 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30640, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.33939 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510188 IP (tos 0x0, ttl 63, id 3585, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.0.5 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30635, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.33275 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510217 IP (tos 0xc0, ttl 255, id 55297, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.76.129 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30633, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.38611 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510254 IP (tos 0x0, ttl 6, id 30648, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37727 > 212.58.244.68.80: Flags [SEW], cksum 0x1fa0 (correct), seq 684131694, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510296 IP (tos 0x0, ttl 6, id 30649, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.36063 > 212.58.244.68.80: Flags [SEW], cksum 0xcc4f (correct), seq 1624385331, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510353 IP (tos 0xc0, ttl 255, id 55298, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.76.129 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30634, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.43467 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510403 IP (tos 0x0, ttl 7, id 30650, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.47296 > 212.58.244.68.80: Flags [SEW], cksum 0x4b6b (correct), seq 639284974, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510442 IP (tos 0x0, ttl 7, id 30651, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.38737 > 212.58.244.68.80: Flags [SEW], cksum 0xd4ed (correct), seq 3786380101, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510481 IP (tos 0x0, ttl 7, id 30652, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.40516 > 212.58.244.68.80: Flags [SEW], cksum 0x656b (correct), seq 138138953, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510535 IP (tos 0x0, ttl 61, id 13910, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.166.69 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30641, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.41110 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510549 IP (tos 0x0, ttl 63, id 3586, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.0.5 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30636, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.59817 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510563 IP (tos 0x0, ttl 8, id 30653, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.49350 > 212.58.244.68.80: Flags [SEW], cksum 0x9510 (correct), seq 169836862, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510627 IP (tos 0x0, ttl 8, id 30654, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.35232 > 212.58.244.68.80: Flags [SEW], cksum 0xd7f1 (correct), seq 4097543014, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510665 IP (tos 0x0, ttl 8, id 30655, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.46641 > 212.58.244.68.80: Flags [SEW], cksum 0xc470 (correct), seq 1602422543, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510705 IP (tos 0x0, ttl 61, id 13911, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.166.69 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30643, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.50340 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510737 IP (tos 0x0, ttl 9, id 30656, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.36154 > 212.58.244.68.80: Flags [SEW], cksum 0x7586 (correct), seq 2254067737, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510778 IP (tos 0x0, ttl 9, id 30657, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.33625 > 212.58.244.68.80: Flags [SEW], cksum 0xfeba (correct), seq 3370751542, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.510866 IP (tos 0x0, ttl 63, id 3587, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.0.5 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30637, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.54166 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.510966 IP (tos 0x0, ttl 9, id 30658, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.39929 > 212.58.244.68.80: Flags [SEW], cksum 0xecbb (correct), seq 4054869710, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.511503 IP (tos 0x0, ttl 60, id 65059, offset 0, flags [none], proto ICMP (1), length 56)
+    70.33.127.97 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30644, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37023 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.511589 IP (tos 0x0, ttl 10, id 30659, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.36723 > 212.58.244.68.80: Flags [SEW], cksum 0xdd71 (correct), seq 1426464585, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.511653 IP (tos 0x0, ttl 60, id 65060, offset 0, flags [none], proto ICMP (1), length 56)
+    70.33.127.97 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30646, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.35886 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.511737 IP (tos 0x0, ttl 10, id 30660, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37203 > 212.58.244.68.80: Flags [SEW], cksum 0xc7b5 (correct), seq 1870665899, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.512070 IP (tos 0x0, ttl 60, id 65061, offset 0, flags [none], proto ICMP (1), length 56)
+    70.33.127.97 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30645, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.59068 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.512133 IP (tos 0x0, ttl 10, id 30661, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.59586 > 212.58.244.68.80: Flags [SEW], cksum 0x4320 (correct), seq 3639794782, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.512451 IP (tos 0x0, ttl 61, id 13912, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.166.69 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30642, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.59323 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.512523 IP (tos 0xc0, ttl 250, id 11568, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.166.1 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30647, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.35103 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.512586 IP (tos 0x0, ttl 11, id 30662, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.58765 > 212.58.244.68.80: Flags [SEW], cksum 0x2e2a (correct), seq 2556638489, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.512648 IP (tos 0x0, ttl 11, id 30663, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.44696 > 212.58.244.68.80: Flags [SEW], cksum 0xa435 (correct), seq 3494821399, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.512702 IP (tos 0xc0, ttl 250, id 11570, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.166.1 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30649, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.36063 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.512765 IP (tos 0x0, ttl 11, id 30664, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.48377 > 212.58.244.68.80: Flags [SEW], cksum 0xc0a2 (correct), seq 1159798391, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.512789 IP (tos 0xc0, ttl 250, id 11569, offset 0, flags [none], proto ICMP (1), length 56)
+    128.192.166.1 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30648, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37727 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.512849 IP (tos 0x0, ttl 12, id 30665, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.51533 > 212.58.244.68.80: Flags [SEW], cksum 0xcee0 (correct), seq 1867504054, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.514382 IP (tos 0xc0, ttl 248, id 26563, offset 0, flags [none], proto ICMP (1), length 56)
+    131.144.101.37 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30654, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.35232 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.514397 IP (tos 0xc0, ttl 248, id 26564, offset 0, flags [none], proto ICMP (1), length 56)
+    131.144.101.37 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30653, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.49350 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.514488 IP (tos 0x0, ttl 12, id 30666, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.46624 > 212.58.244.68.80: Flags [SEW], cksum 0xf3c6 (correct), seq 2544476067, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.514529 IP (tos 0xc0, ttl 248, id 26565, offset 0, flags [none], proto ICMP (1), length 56)
+    131.144.101.37 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30655, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.46641 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.514543 IP (tos 0x0, ttl 12, id 30667, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.55468 > 212.58.244.68.80: Flags [SEW], cksum 0x0144 (correct), seq 3968277180, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.514576 IP (tos 0x0, ttl 13, id 30668, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.48551 > 212.58.244.68.80: Flags [SEW], cksum 0x443e (correct), seq 2449755466, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.514941 IP (tos 0xc0, ttl 248, id 8066, offset 0, flags [none], proto ICMP (1), length 56)
+    131.144.101.17 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30657, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.33625 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.515033 IP (tos 0x0, ttl 13, id 30669, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.56812 > 212.58.244.68.80: Flags [SEW], cksum 0x3b74 (correct), seq 1130071160, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.515196 IP (tos 0xc0, ttl 248, id 8067, offset 0, flags [none], proto ICMP (1), length 56)
+    131.144.101.17 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30656, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.36154 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.515280 IP (tos 0x0, ttl 13, id 30670, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.50647 > 212.58.244.68.80: Flags [SEW], cksum 0xe69c (correct), seq 1822410784, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.515532 IP (tos 0xc0, ttl 248, id 8068, offset 0, flags [none], proto ICMP (1), length 56)
+    131.144.101.17 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30658, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.39929 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.515595 IP (tos 0x0, ttl 14, id 30671, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.38297 > 212.58.244.68.80: Flags [SEW], cksum 0x128a (correct), seq 2760938624, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.516323 IP (tos 0x30, ttl 246, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    213.248.88.225 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30659, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.36723 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.516345 IP (tos 0x30, ttl 246, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    213.248.88.225 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30660, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37203 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.516441 IP (tos 0x0, ttl 14, id 30672, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.47195 > 212.58.244.68.80: Flags [SEW], cksum 0x3864 (correct), seq 3478266146, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.516457 IP (tos 0x30, ttl 246, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    213.248.88.225 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30661, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.59586 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.516498 IP (tos 0x0, ttl 14, id 30673, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.56102 > 212.58.244.68.80: Flags [SEW], cksum 0xbe8d (correct), seq 3069350029, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.516535 IP (tos 0x0, ttl 15, id 30674, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.57898 > 212.58.244.68.80: Flags [SEW], cksum 0x682e (correct), seq 215976444, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.531286 IP (tos 0x30, ttl 245, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    80.91.248.138 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30662, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.58765 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.531307 IP (tos 0x30, ttl 245, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    80.91.248.138 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30663, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.44696 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.531404 IP (tos 0x0, ttl 15, id 30675, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.58827 > 212.58.244.68.80: Flags [SEW], cksum 0x6d10 (correct), seq 1180911605, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.531442 IP (tos 0x0, ttl 15, id 30676, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.41814 > 212.58.244.68.80: Flags [SEW], cksum 0xa4c1 (correct), seq 903373636, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.531737 IP (tos 0x30, ttl 245, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    80.91.248.138 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30664, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.48377 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.531822 IP (tos 0x0, ttl 16, id 30677, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.58344 > 212.58.244.68.80: Flags [SEW], cksum 0x1b93 (correct), seq 2737716874, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.560044 IP (tos 0xc0, ttl 249, id 10137, offset 0, flags [none], proto ICMP (1), length 56)
+    131.144.206.49 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30651, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.38737 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.560065 IP (tos 0xc0, ttl 249, id 10138, offset 0, flags [none], proto ICMP (1), length 56)
+    131.144.206.49 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30650, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.47296 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.560153 IP (tos 0xc0, ttl 249, id 10139, offset 0, flags [none], proto ICMP (1), length 56)
+    131.144.206.49 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x30, ttl 1, id 30652, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.40516 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.560171 IP (tos 0x0, ttl 16, id 30678, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.41923 > 212.58.244.68.80: Flags [SEW], cksum 0x5920 (correct), seq 3918461633, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.560243 IP (tos 0x0, ttl 16, id 30679, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37272 > 212.58.244.68.80: Flags [SEW], cksum 0x97d8 (correct), seq 1192325298, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.560366 IP (tos 0x0, ttl 17, id 30680, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.57029 > 212.58.244.68.80: Flags [SEW], cksum 0x689b (correct), seq 3948129919, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.607380 IP (tos 0x30, ttl 244, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    80.91.251.206 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30665, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.51533 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.607492 IP (tos 0x0, ttl 17, id 30681, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.57015 > 212.58.244.68.80: Flags [SEW], cksum 0x4701 (correct), seq 2821854025, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.608834 IP (tos 0x30, ttl 244, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    80.91.251.206 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30666, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.46624 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.608883 IP (tos 0x30, ttl 244, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    80.91.251.206 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30667, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.55468 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.608958 IP (tos 0x0, ttl 17, id 30682, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.49103 > 212.58.244.68.80: Flags [SEW], cksum 0x3bda (correct), seq 2270387767, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.609011 IP (tos 0x0, ttl 18, id 30683, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.38390 > 212.58.244.68.80: Flags [SEW], cksum 0x73e5 (correct), seq 1642493298, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.609123 IP (tos 0x30, ttl 243, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    80.91.251.165 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30668, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.48551 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.609233 IP (tos 0x0, ttl 18, id 30684, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.54956 > 212.58.244.68.80: Flags [SEW], cksum 0x1be2 (correct), seq 812367418, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.609733 IP (tos 0x30, ttl 243, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    80.91.251.165 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30669, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.56812 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.609751 IP (tos 0x30, ttl 242, id 17135, offset 0, flags [none], proto ICMP (1), length 56)
+    213.248.104.70 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30671, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.38297 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.609793 IP (tos 0x30, ttl 243, id 0, offset 0, flags [none], proto ICMP (1), length 56)
+    80.91.251.165 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30670, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.50647 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.609902 IP (tos 0x0, ttl 18, id 30685, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.56072 > 212.58.244.68.80: Flags [SEW], cksum 0xf492 (correct), seq 1873388015, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.609943 IP (tos 0x0, ttl 19, id 30686, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37584 > 212.58.244.68.80: Flags [SEW], cksum 0x753a (correct), seq 3598844583, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.610004 IP (tos 0x0, ttl 19, id 30687, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.38386 > 212.58.244.68.80: Flags [SEW], cksum 0x8461 (correct), seq 2585865407, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.610104 IP (tos 0x30, ttl 242, id 17136, offset 0, flags [none], proto ICMP (1), length 56)
+    213.248.104.70 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30672, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.47195 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.610180 IP (tos 0x0, ttl 19, id 30688, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.46793 > 212.58.244.68.80: Flags [SEW], cksum 0x2f9a (correct), seq 3147513653, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.610946 IP (tos 0x30, ttl 242, id 17137, offset 0, flags [none], proto ICMP (1), length 56)
+    213.248.104.70 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x10, ttl 1, id 30673, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.56102 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.611020 IP (tos 0x0, ttl 20, id 30689, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.48264 > 212.58.244.68.80: Flags [SEW], cksum 0xa54d (correct), seq 1297035791, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.626866 IP (tos 0x30, ttl 239, id 22232, offset 0, flags [none], proto ICMP (1), length 56)
+    212.58.239.62 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30677, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.58344 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.626958 IP (tos 0x0, ttl 20, id 30690, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.52859 > 212.58.244.68.80: Flags [SEW], cksum 0x37a2 (correct), seq 1236177256, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.655043 IP (tos 0x30, ttl 238, id 64426, offset 0, flags [none], proto ICMP (1), length 56)
+    212.58.251.44 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30680, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.57029 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.655135 IP (tos 0x0, ttl 20, id 30691, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.51119 > 212.58.244.68.80: Flags [SEW], cksum 0x7d33 (correct), seq 1724790147, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.655450 IP (tos 0x30, ttl 239, id 22234, offset 0, flags [none], proto ICMP (1), length 56)
+    212.58.239.62 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30678, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.41923 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.655524 IP (tos 0x0, ttl 21, id 30692, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.47609 > 212.58.244.68.80: Flags [SEW], cksum 0xf783 (correct), seq 3789508055, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.655534 IP (tos 0x30, ttl 239, id 22235, offset 0, flags [none], proto ICMP (1), length 56)
+    212.58.239.62 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30679, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.37272 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.655573 IP (tos 0x0, ttl 21, id 30693, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.45445 > 212.58.244.68.80: Flags [SEW], cksum 0x5744 (correct), seq 3865309702, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.689833 IP (tos 0x30, ttl 240, id 50037, offset 0, flags [none], proto ICMP (1), length 56)
+    212.58.238.149 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30674, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.57898 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.689946 IP (tos 0x0, ttl 21, id 30694, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.38572 > 212.58.244.68.80: Flags [SEW], cksum 0xf91a (correct), seq 1212680485, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.691423 IP (tos 0x30, ttl 240, id 50038, offset 0, flags [none], proto ICMP (1), length 56)
+    212.58.238.149 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30676, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.41814 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.691509 IP (tos 0x0, ttl 22, id 30695, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.48886 > 212.58.244.68.80: Flags [SEW], cksum 0xc0d0 (correct), seq 614677706, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.691799 IP (tos 0x30, ttl 240, id 50039, offset 0, flags [none], proto ICMP (1), length 56)
+    212.58.238.149 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30675, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.58827 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.691929 IP (tos 0x0, ttl 22, id 30696, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.49391 > 212.58.244.68.80: Flags [SEW], cksum 0x9878 (correct), seq 643916139, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.700896 IP (tos 0x30, ttl 238, id 64429, offset 0, flags [none], proto ICMP (1), length 56)
+    212.58.251.44 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30681, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.57015 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.700995 IP (tos 0x0, ttl 22, id 30697, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.46518 > 212.58.244.68.80: Flags [SEW], cksum 0xeda6 (correct), seq 2741803626, win 5840, options [mss 1460,sackOK,TS val 1090680828 ecr 0,nop,wscale 2], length 0
+1296184417.702772 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.38386: Flags [S.], cksum 0x826e (correct), seq 3623086020, ack 2585865408, win 5792, options [mss 1460,sackOK,TS val 2416423692 ecr 1090680828,nop,wscale 7], length 0
+1296184417.702805 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.38386 > 212.58.244.68.80: Flags [R], cksum 0xbcca (correct), seq 2585865408, win 0, length 0
+1296184417.702813 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.54956: Flags [S.], cksum 0xea3d (correct), seq 3615496170, ack 812367419, win 5792, options [mss 1460,sackOK,TS val 2416423691 ecr 1090680828,nop,wscale 7], length 0
+1296184417.702819 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.54956 > 212.58.244.68.80: Flags [R], cksum 0x544b (correct), seq 812367419, win 0, length 0
+1296184417.703134 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.46793: Flags [S.], cksum 0x551b (correct), seq 3624976435, ack 3147513654, win 5792, options [mss 1460,sackOK,TS val 2416423692 ecr 1090680828,nop,wscale 7], length 0
+1296184417.703152 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.46793 > 212.58.244.68.80: Flags [R], cksum 0x6803 (correct), seq 3147513654, win 0, length 0
+1296184417.703160 IP (tos 0x30, ttl 238, id 64430, offset 0, flags [none], proto ICMP (1), length 56)
+    212.58.251.44 > 128.192.76.178: ICMP time exceeded in-transit, length 36
+	IP (tos 0x0, ttl 1, id 30682, offset 0, flags [none], proto TCP (6), length 60)
+    128.192.76.178.49103 > 212.58.244.68.80:  tcp 40 [bad hdr length 0 - too short, < 20]
+1296184417.703737 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.38390: Flags [S.], cksum 0x2c74 (correct), seq 3620416877, ack 1642493299, win 5792, options [mss 1460,sackOK,TS val 2416423690 ecr 1090680828,nop,wscale 7], length 0
+1296184417.703755 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.38390 > 212.58.244.68.80: Flags [R], cksum 0xac4e (correct), seq 1642493299, win 0, length 0
+1296184417.706195 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.56072: Flags [S.], cksum 0x916c (correct), seq 3617409359, ack 1873388016, win 5792, options [mss 1460,sackOK,TS val 2416423691 ecr 1090680828,nop,wscale 7], length 0
+1296184417.706209 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.56072 > 212.58.244.68.80: Flags [R], cksum 0x2cfc (correct), seq 1873388016, win 0, length 0
+1296184417.706216 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.37584: Flags [S.], cksum 0x14c4 (correct), seq 3625731616, ack 3598844584, win 5792, options [mss 1460,sackOK,TS val 2416423691 ecr 1090680828,nop,wscale 7], length 0
+1296184417.706222 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.37584 > 212.58.244.68.80: Flags [R], cksum 0xada3 (correct), seq 3598844584, win 0, length 0
+1296184417.706609 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.48264: Flags [S.], cksum 0x296a (correct), seq 3614794291, ack 1297035792, win 5792, options [mss 1460,sackOK,TS val 2416423692 ecr 1090680828,nop,wscale 7], length 0
+1296184417.706624 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.48264 > 212.58.244.68.80: Flags [R], cksum 0xddb6 (correct), seq 1297035792, win 0, length 0
+1296184417.720176 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.52859: Flags [S.], cksum 0x7612 (correct), seq 3623855941, ack 1236177257, win 5792, options [mss 1460,sackOK,TS val 2416423708 ecr 1090680828,nop,wscale 7], length 0
+1296184417.720190 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.52859 > 212.58.244.68.80: Flags [R], cksum 0x700b (correct), seq 1236177257, win 0, length 0
+1296184417.748275 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.45445: Flags [S.], cksum 0x1e55 (correct), seq 3615039246, ack 3865309703, win 5792, options [mss 1460,sackOK,TS val 2416423737 ecr 1090680828,nop,wscale 7], length 0
+1296184417.748290 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.45445 > 212.58.244.68.80: Flags [R], cksum 0x8fad (correct), seq 3865309703, win 0, length 0
+1296184417.749553 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.51119: Flags [S.], cksum 0x233d (correct), seq 3617538031, ack 1724790148, win 5792, options [mss 1460,sackOK,TS val 2416423737 ecr 1090680828,nop,wscale 7], length 0
+1296184417.749567 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.51119 > 212.58.244.68.80: Flags [R], cksum 0xb59c (correct), seq 1724790148, win 0, length 0
+1296184417.751915 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.47609: Flags [S.], cksum 0xbfd4 (correct), seq 3620478331, ack 3789508056, win 5792, options [mss 1460,sackOK,TS val 2416423737 ecr 1090680828,nop,wscale 7], length 0
+1296184417.751929 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.47609 > 212.58.244.68.80: Flags [R], cksum 0x2fed (correct), seq 3789508056, win 0, length 0
+1296184417.782932 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.38572: Flags [S.], cksum 0x20b6 (correct), seq 3617046083, ack 1212680486, win 5792, options [mss 1460,sackOK,TS val 2416423771 ecr 1090680828,nop,wscale 7], length 0
+1296184417.782946 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.38572 > 212.58.244.68.80: Flags [R], cksum 0x3184 (correct), seq 1212680486, win 0, length 0
+1296184417.785965 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.48886: Flags [S.], cksum 0xa9ce (correct), seq 3625188450, ack 614677707, win 5792, options [mss 1460,sackOK,TS val 2416423773 ecr 1090680828,nop,wscale 7], length 0
+1296184417.785979 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.48886 > 212.58.244.68.80: Flags [R], cksum 0xf939 (correct), seq 614677707, win 0, length 0
+1296184417.787573 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.49391: Flags [S.], cksum 0xba7e (correct), seq 3626156875, ack 643916140, win 5792, options [mss 1460,sackOK,TS val 2416423773 ecr 1090680828,nop,wscale 7], length 0
+1296184417.787587 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.49391 > 212.58.244.68.80: Flags [R], cksum 0xd0e1 (correct), seq 643916140, win 0, length 0
+1296184417.796222 IP (tos 0x30, ttl 46, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    212.58.244.68.80 > 128.192.76.178.46518: Flags [S.], cksum 0xe667 (correct), seq 3628067946, ack 2741803627, win 5792, options [mss 1460,sackOK,TS val 2416423782 ecr 1090680828,nop,wscale 7], length 0
+1296184417.796236 IP (tos 0x30, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 40)
+    128.192.76.178.46518 > 212.58.244.68.80: Flags [R], cksum 0x2610 (correct), seq 2741803627, win 0, length 0
+
